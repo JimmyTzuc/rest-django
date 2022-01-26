@@ -51,11 +51,7 @@ The port is 0.0.0.0:9000.
 The credentials are in the file .env
 Remember to select the database engine: PostgreSQL
 
-Custom administrator:
-http://localhost:8000/admin
 
 URL Admin Django:
-http://localhost:8000/administrator/
+http://localhost:8000/admin/
 
-Please replace the Slack token in the .env file or you can join my workspace
-https://join.slack.com/t/noras-shop/shared_invite/zt-wo5ke73b-pacN_MWqIp7eW9gXl~EBlw
