@@ -1,0 +1,13 @@
+Django
+django-extensions>=3.0.5
+# database library
+psycopg2>=2.8.6
+# Seeders & data fakers library
+django-seed
+factory-boy>=3.0.1
+# Credential enviroments library
+django-environ==0.4.5
+# Django REST Framework library
+djangorestframework
+markdown
+django-filter
